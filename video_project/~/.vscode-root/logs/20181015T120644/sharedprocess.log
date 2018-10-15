@@ -1,0 +1,131 @@
+[2018-10-15 12:06:48.237] [sharedprocess] [info] main {"machineId":"3fa2da3089477f59a937e388b0adb8daf5fdbf1d2b5ed50e6ff9c694ec38794a"}
+[2018-10-15 12:06:48.270] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 12:06:48.295] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 12:06:48.295] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 12:06:48.296] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 12:06:48.341] [sharedprocess] [info] Scanned system extensions: 70
+[2018-10-15 12:06:48.344] [sharedprocess] [info] Scanned system extensions: 70
+[2018-10-15 12:06:48.345] [sharedprocess] [info] Scanned system extensions: 70
+[2018-10-15 12:06:49.795] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 12:06:51.964] [sharedprocess] [info] Installing extension: java
+[2018-10-15 12:06:51.965] [sharedprocess] [info] Installing extension: vscode-java-debug
+[2018-10-15 12:06:51.965] [sharedprocess] [info] Installing extension: vscode-java-test
+[2018-10-15 12:06:51.965] [sharedprocess] [info] Installing extension: vscode-maven
+[2018-10-15 12:06:51.972] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 12:06:51.976] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 12:06:51.979] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 12:06:51.981] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 12:06:51.986] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 12:06:51.988] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 12:06:52.019] [sharedprocess] [info] Scanned system extensions: 70
+[2018-10-15 12:06:52.020] [sharedprocess] [info] Scanned system extensions: 70
+[2018-10-15 12:06:53.276] [sharedprocess] [info] Downloaded extension: vscode-maven
+[2018-10-15 12:06:53.728] [sharedprocess] [info] Extracted extension to /home/jaskaran/.vscode/extensions/.vscjava.vscode-maven-0.11.1: vscjava.vscode-maven-0.11.1
+[2018-10-15 12:06:53.728] [sharedprocess] [info] Renamed to /home/jaskaran/.vscode/extensions/vscjava.vscode-maven-0.11.1
+[2018-10-15 12:06:53.728] [sharedprocess] [info] Installation completed. vscjava.vscode-maven-0.11.1
+[2018-10-15 12:06:53.784] [sharedprocess] [info] Extensions installed successfully: vscjava.vscode-maven
+[2018-10-15 12:06:53.891] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 12:06:53.903] [sharedprocess] [info] Scanned system extensions: 70
+[2018-10-15 12:06:58.524] [sharedprocess] [info] Downloaded extension: vscode-java-debug
+[2018-10-15 12:06:59.232] [sharedprocess] [info] Extracted extension to /home/jaskaran/.vscode/extensions/.vscjava.vscode-java-debug-0.14.0: vscjava.vscode-java-debug-0.14.0
+[2018-10-15 12:06:59.232] [sharedprocess] [info] Renamed to /home/jaskaran/.vscode/extensions/vscjava.vscode-java-debug-0.14.0
+[2018-10-15 12:06:59.232] [sharedprocess] [info] Installation completed. vscjava.vscode-java-debug-0.14.0
+[2018-10-15 12:06:59.326] [sharedprocess] [info] Extensions installed successfully: vscjava.vscode-java-debug
+[2018-10-15 12:06:59.435] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 12:06:59.446] [sharedprocess] [info] Scanned system extensions: 70
+[2018-10-15 12:07:04.286] [sharedprocess] [info] Downloaded extension: vscode-java-test
+[2018-10-15 12:07:06.875] [sharedprocess] [info] Extracted extension to /home/jaskaran/.vscode/extensions/.vscjava.vscode-java-test-0.10.0: vscjava.vscode-java-test-0.10.0
+[2018-10-15 12:07:06.876] [sharedprocess] [info] Renamed to /home/jaskaran/.vscode/extensions/vscjava.vscode-java-test-0.10.0
+[2018-10-15 12:07:06.876] [sharedprocess] [info] Installation completed. vscjava.vscode-java-test-0.10.0
+[2018-10-15 12:07:07.031] [sharedprocess] [info] Extensions installed successfully: vscjava.vscode-java-test
+[2018-10-15 12:07:08.325] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 12:07:08.326] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 12:07:08.332] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 12:07:08.406] [sharedprocess] [info] Scanned system extensions: 70
+[2018-10-15 12:07:08.408] [sharedprocess] [info] Scanned system extensions: 70
+[2018-10-15 12:07:11.014] [sharedprocess] [info] Installing extension: java
+[2018-10-15 12:07:11.017] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 12:07:11.043] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 12:07:20.924] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 12:07:21.906] [sharedprocess] [info] Downloaded extension: java
+[2018-10-15 12:07:22.409] [sharedprocess] [info] Extracted extension to /home/jaskaran/.vscode/extensions/.redhat.java-0.30.0: redhat.java-0.30.0
+[2018-10-15 12:07:22.410] [sharedprocess] [info] Renamed to /home/jaskaran/.vscode/extensions/redhat.java-0.30.0
+[2018-10-15 12:07:22.410] [sharedprocess] [info] Installation completed. redhat.java-0.30.0
+[2018-10-15 12:07:22.494] [sharedprocess] [info] Extensions installed successfully: redhat.java
+[2018-10-15 12:07:22.495] [sharedprocess] [info] Extensions installed successfully: redhat.java
+[2018-10-15 12:07:22.606] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 12:07:22.626] [sharedprocess] [info] Scanned system extensions: 70
+[2018-10-15 12:07:28.243] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-10-15 12:12:11.068] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 12:17:11.075] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 12:22:11.092] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 12:27:11.101] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 12:32:11.112] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 12:37:11.121] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 12:42:11.131] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 12:47:11.143] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 12:52:11.154] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 12:57:11.160] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 13:02:11.169] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 13:07:11.305] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 13:12:11.315] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 13:17:11.323] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 13:22:11.333] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 13:27:11.341] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 13:32:11.347] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 13:37:11.356] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 13:42:11.364] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 13:47:11.371] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 13:52:11.377] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 13:57:11.385] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 14:02:11.395] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 14:07:11.533] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 14:12:11.540] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 14:17:11.547] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 14:22:11.558] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 14:27:11.568] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 14:32:11.577] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 14:37:11.586] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 14:42:11.610] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 14:47:11.620] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 14:52:11.626] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 14:57:11.644] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 15:02:11.653] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 15:07:11.733] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 15:12:11.758] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 15:17:11.768] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 15:22:11.779] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 15:27:11.788] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 15:32:11.797] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 15:37:11.806] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 15:42:11.821] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 15:47:11.834] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 15:52:11.842] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 15:57:11.849] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 16:02:11.857] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 16:07:11.992] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 16:12:12.012] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 16:17:12.023] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 16:22:12.043] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 16:27:12.052] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 16:32:12.059] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 16:37:12.067] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 16:42:12.086] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 16:47:12.095] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 16:52:12.119] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 16:57:12.146] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 17:02:12.154] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 17:07:12.226] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 17:12:12.235] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 17:17:12.243] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 17:22:12.250] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 17:27:12.257] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 17:32:12.264] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 17:37:12.272] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 17:42:12.286] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 17:47:12.301] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 17:52:12.309] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 17:57:12.316] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 18:02:12.326] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 18:07:12.458] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-15 18:12:12.465] [sharedprocess] [info] Scanned user extensions: 5
