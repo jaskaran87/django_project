@@ -21,6 +21,11 @@
             "label": "Ctrl+Shift+T",
             "isNative": true
         },
+        "workbench.action.openRecent": {
+            "id": "workbench.action.openRecent",
+            "label": "Ctrl+R",
+            "isNative": true
+        },
         "workbench.action.files.save": {
             "id": "workbench.action.files.save",
             "label": "Ctrl+S",
@@ -457,11 +462,28 @@
     "pickerWorkingDir": "/var/www/fress/video_project/templates",
     "openedPathsList": {
         "workspaces": [
+            "/var/www/fress/video_project",
+            "/var/www/fress/video_project",
+            "/var/www/fress/video_project",
             "/var/www/fress/video_project"
         ],
         "files": [
             "/var/www/fress/video_project/templates/home_page.html",
             "/var/www/fress/video_project/video_project/views.py"
         ]
+    },
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "folderPath": "/var/www/fress/video_project",
+            "backupPath": "/var/www/fress/video_project/~/.vscode-root/Backups/4991df8d551094c24325f90123ef828e",
+            "uiState": {
+                "mode": 0,
+                "x": 55,
+                "y": 24,
+                "width": 1865,
+                "height": 1056
+            }
+        }
     }
 }

@@ -1,0 +1,50 @@
+[2018-10-16 10:11:23.242] [sharedprocess] [info] main {"machineId":"3fa2da3089477f59a937e388b0adb8daf5fdbf1d2b5ed50e6ff9c694ec38794a"}
+[2018-10-16 10:11:23.274] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-16 10:11:23.299] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-16 10:11:23.302] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-16 10:11:23.306] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-16 10:11:23.813] [sharedprocess] [info] Scanned system extensions: 70
+[2018-10-16 10:11:23.820] [sharedprocess] [info] Scanned system extensions: 70
+[2018-10-16 10:11:23.865] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-16 10:11:28.555] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-16 10:11:28.563] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-16 10:11:28.567] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-16 10:11:28.580] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-16 10:11:28.637] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-16 10:11:28.639] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-16 10:11:28.640] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-16 10:11:28.654] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-16 10:11:28.658] [sharedprocess] [info] Scanned system extensions: 70
+[2018-10-16 10:11:28.660] [sharedprocess] [info] Scanned system extensions: 70
+[2018-10-16 10:11:28.682] [sharedprocess] [info] Scanned system extensions: 70
+[2018-10-16 10:11:28.698] [sharedprocess] [info] Scanned system extensions: 70
+[2018-10-16 10:11:28.701] [sharedprocess] [info] Scanned system extensions: 70
+[2018-10-16 10:11:28.703] [sharedprocess] [info] Scanned system extensions: 70
+[2018-10-16 10:11:28.706] [sharedprocess] [info] Scanned system extensions: 70
+[2018-10-16 10:11:29.494] [sharedprocess] [info] Installing extension: python
+[2018-10-16 10:11:29.497] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-16 10:11:33.924] [sharedprocess] [info] Downloaded extension: python
+[2018-10-16 10:11:37.186] [sharedprocess] [info] Extracted extension to /home/jaskaran/.vscode/extensions/.ms-python.python-2018.7.1: ms-python.python-2018.7.1
+[2018-10-16 10:11:37.186] [sharedprocess] [info] Renamed to /home/jaskaran/.vscode/extensions/ms-python.python-2018.7.1
+[2018-10-16 10:11:37.186] [sharedprocess] [info] Installation completed. ms-python.python-2018.7.1
+[2018-10-16 10:11:37.312] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2018-10-16 10:11:37.427] [sharedprocess] [info] Scanned user extensions: 6
+[2018-10-16 10:11:37.441] [sharedprocess] [info] Scanned system extensions: 70
+[2018-10-16 10:11:40.615] [sharedprocess] [info] Scanned user extensions: 6
+[2018-10-16 10:11:40.620] [sharedprocess] [info] Scanned user extensions: 6
+[2018-10-16 10:11:40.625] [sharedprocess] [info] Scanned user extensions: 6
+[2018-10-16 10:11:40.635] [sharedprocess] [info] Scanned user extensions: 6
+[2018-10-16 10:11:40.637] [sharedprocess] [info] Scanned user extensions: 6
+[2018-10-16 10:11:40.643] [sharedprocess] [info] Scanned user extensions: 6
+[2018-10-16 10:11:40.682] [sharedprocess] [info] Scanned system extensions: 70
+[2018-10-16 10:11:40.684] [sharedprocess] [info] Scanned system extensions: 70
+[2018-10-16 10:11:40.685] [sharedprocess] [info] Scanned system extensions: 70
+[2018-10-16 10:11:40.687] [sharedprocess] [info] Scanned system extensions: 70
+[2018-10-16 10:11:40.720] [sharedprocess] [info] Scanned user extensions: 6
+[2018-10-16 10:11:43.721] [sharedprocess] [info] Scanned user extensions: 6
+[2018-10-16 10:12:03.247] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-10-16 10:16:43.765] [sharedprocess] [info] Scanned user extensions: 6
+[2018-10-16 10:21:43.782] [sharedprocess] [info] Scanned user extensions: 6
+[2018-10-16 10:26:43.813] [sharedprocess] [info] Scanned user extensions: 6
+[2018-10-16 10:31:43.832] [sharedprocess] [info] Scanned user extensions: 6
+[2018-10-16 10:36:43.844] [sharedprocess] [info] Scanned user extensions: 6

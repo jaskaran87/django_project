@@ -24,7 +24,15 @@ from views import (
                     login_page,
                     register_page
                 )
-
+from products.views import (
+                            ProductListView,
+                            product_list_view,
+                            product_detail_view,
+                            productDetailView,
+                            ProductFeaturedListView,
+                            ProductFeaturedDetailView,
+                            ProductDetailSlugView,
+                        )
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^homePage/$', home_page),
@@ -32,6 +40,19 @@ urlpatterns = [
     url(r'^contactPage/$', contact_page),
     url(r'^loginPage/$', login_page),
     url(r'^registerPage/$', register_page),    
+    
+    url (r'^products/$', ProductListView.as_view()),
+    url (r'^products-fbv/$', product_list_view),
+    
+    url (r'^products/(?P<pk>\d+)/$', productDetailView.as_view()),
+    url (r'^products-fbv/(?P<pk>\d+)/$', product_detail_view),
+
+    url (r'^featured/$', ProductFeaturedListView.as_view()),
+    url (r'^featured/(?P<pk>\d+)/$', ProductFeaturedDetailView.as_view()),
+
+    url (r'^products-slug/(?P<slug>[\w-]+)/$', ProductDetailSlugView.as_view()),
+    
+
 ]
 
 if settings.DEBUG:
