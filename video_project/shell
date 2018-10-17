@@ -1,0 +1,42 @@
+In [1]: from tags.models import *
+In [3]: from products.models import *
+In [4]: Tag.objects.all()
+Out[4]: <QuerySet [<Tag: yello>, <Tag: red>, <Tag: black>, <Tag: new-add>]>
+
+In [5]: Tag.objects.last()
+Out[5]: <Tag: new-add>
+
+In [6]: b = Tag.objects.last()
+
+In [7]: b.title
+Out[7]: u'new-add'
+
+In [9]: b.active
+Out[9]: True
+
+In [10]: 
+
+In [10]: b.products
+Out[10]: <django.db.models.fields.related_descriptors.ManyRelatedManager at 0x7f45d2d38f50>
+
+In [11]: b.products.all()
+Out[11]: <ProductQuerySet [<Product: Fossil BQ1129 Watch - For Men>]>
+----------------------------------------------------------------------------------------------------------------
+In [12]: qs = Product.objects.all()
+
+In [13]: qs
+Out[13]: <ProductQuerySet [<Product: Fossil BQ2125 Watch - For Men>, <Product: Fossil BQ1129 Watch - For Men>, <Product: Billion HiStorage Backpack  (Black)>, <Product: American Tourister Fizz Sch Bag 32.5 L Backpack  (Blue)>, <Product: Woodland Leather Outdoor Shoe For Men  (Green)>]>
+
+In [14]: a = qs.first()
+
+In [15]: a.title
+Out[15]: u'Fossil BQ2125 Watch - For Men'
+
+In [16]: a.tag_set
+Out[16]: <django.db.models.fields.related_descriptors.ManyRelatedManager at 0x7f45d2cece10>
+
+In [17]: a.tag_set.all()
+Out[17]: <QuerySet [<Tag: red>, <Tag: black>]>
+
+ 
+a.tag_set.filter(title__icontains='black')
