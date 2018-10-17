@@ -1,0 +1,11 @@
+<div class="card"   style="width: 18rem; margin: 20px 20px 0px 0px;">
+     {% if instance.image %}
+        <img  style="padding: 13px 31px 12px 22px;" class="card-img-top" src="{{ instance.image.url }}" alt="Card image cap" width="200px" height="150px">
+    {% endif %}
+  <div class="card-body">
+    <h5 class="card-title">{{ instance.title }} </h5>
+    <p class="card-text"> {{ instance.description|linebreaks|truncatewords:12 }}</p>
+    <a href="{{ instance.get_absolute_url }}" class="btn btn-primary">view</a>
+    <!-- <a href="{% url  'products:detail' slug=instance.slug %}" class="btn btn-warning">Url ShortCut</a> -->
+  </div>
+</div>

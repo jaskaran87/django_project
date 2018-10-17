@@ -60,7 +60,8 @@ def contact_page(request):
 	contact_form = ContactForm(request.POST or None)
 	content_data = {
 		'title' : 'about Page!',
-		'form' : contact_form
+		'form' : contact_form,
+		'brand' : 'PUMA'
 	}
 	 
 	if contact_form.is_valid():
