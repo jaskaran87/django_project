@@ -19,6 +19,9 @@ from views import (
 #                             ProductFeaturedDetailView,
 #                             ProductDetailSlugView,
 #                         )
+
+from carts.views import cart_home
+
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^homePage/$', home_page, name="home"),
@@ -29,6 +32,10 @@ urlpatterns = [
     url (r'^products/', include("products.urls" , namespace="products")),
     url (r'^bootstrap/', TemplateView.as_view(template_name='bootstrap/example.html')),
     url (r'^search/', include("search.urls" , namespace="searchs")),
+    
+    # url(r'^cart/$', cart_home , name="cart"),
+    url (r'^cart/', include("carts.urls" , namespace="cart") ),
+
     # url (r'^products/$', ProductListView.as_view()),
     # url (r'^products-fbv/$', product_list_view),
     # url (r'^products/(?P<pk>\d+)/$', productDetailView.as_view()),

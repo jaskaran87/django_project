@@ -8,6 +8,7 @@ def register_page(request):
 	pass
 
 def login_page(request):
+
 	login_form = LoginForm(request.POST or None) 
 	if login_form.is_valid():
 		username = login_form.cleaned_data.get('username')
@@ -41,6 +42,7 @@ def register_page(request):
 	return render (request, "auth/register.html", context)
 
 def home_page(request):
+	print(request.session.get('first_name'))
 	content_data = {
 		'title' : 'Home Page!',
 		
